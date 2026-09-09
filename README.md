@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Ben (@benj5961) 👋
 
-<!--
-**benj5961/benj5961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Seoul. Currently building micro-SaaS tools and lightweight web apps.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- 🛠️ Shipping small projects with FastAPI + React
+- 📦 Keeping backends lean (big fan of SQLite for indie projects)
+- 📚 Tinkering with async worker queues and local automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack:
+- **Core:** TypeScript, Python, SQL
+- **Frameworks:** FastAPI, React, Next.js, Tailwind CSS
+- **Data & Ops:** SQLite, PostgreSQL, Docker, Linux
+
+#### Connect:
+- Twitter/X: [@benj5961](https://x.com)
+- Email: benj5961@proton.me
